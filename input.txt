@@ -1,0 +1,21 @@
+Name,  SYMBOL, CURRENT_PRICE, NEXT_PRICE
+Microsoft, MSFT, 20.00, 10.00
+Apple, APPL, 98.00, 98.00
+Dell, DELL, 10.00, 10.00
+Toyota, TOYA, 107.00, 107.00
+Ford, FORD, 25.00, 25.00
+Nissan, NISS, 45.00, 45.00
+Chevy, CHEV, 57.00, 57.00
+Dodge, DODG, 32.50, 32.50
+Compaq, COMQ, 75.25, 75.25
+Hewlett Packard, HEWP, 75.00, 75.00
+Gateway, GATE, 50.00, 50.00
+Samsung, SAMS, 65.00, 65.00
+Nokia, NOKA, 45.00, 45.00
+Blackberry, BLCK, 73.00, 73.00
+American Eagle, AMEG, 82.00, 82.00
+Polo, POLO, 89.33, 89.33
+Nike, NIKE, 97.54, 97.54
+Under Armour, UNAR, 89.95, 89.95
+Vizio, VIZO, 102.20, 102.20
+Sharp, SHRP, 101.25, 101.25
